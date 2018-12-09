@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.katy.playapp.playTest.controller;
+package com.katy.beansnob.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

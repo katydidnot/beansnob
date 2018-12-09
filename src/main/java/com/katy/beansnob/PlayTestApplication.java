@@ -1,4 +1,4 @@
-package com.katy.playapp.playTest;
+package com.katy.beansnob;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
