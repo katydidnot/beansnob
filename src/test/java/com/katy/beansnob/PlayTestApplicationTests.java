@@ -1,4 +1,4 @@
-package com.katy.playapp.playTest;
+package com.katy.beansnob;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
