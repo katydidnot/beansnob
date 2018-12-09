@@ -4,12 +4,14 @@
 package com.katy.beansnob.model;
 import lombok.Getter;
 import lombok.Setter;
+import lombok.ToString;
 /**
  * @author katyd
  *
  */
 @Getter
 @Setter
+@ToString
 public class CoffeeShop {
 	
 	private String name; 
